@@ -1,2 +1,1 @@
-# PaymentApiTest
-Teste de API
+# API de Gestão de Boletos e Bancos
